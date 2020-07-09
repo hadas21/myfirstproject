@@ -8,7 +8,7 @@ public class lion2 {
 		Lion lion2;
 		lion2 = new Lion();
 		System.out.println(lion2.toString());
-		
+		lion2.sleep();
 	}
 
 }
