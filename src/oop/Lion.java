@@ -16,6 +16,10 @@ public class Lion {
 		System.out.println("roarrrrrr");
 	}
 	
+	void sleep() {
+		System.out.println("zzzzz");
+	}
+	
 	String hunt() {
 		return "rabbit";		
 	}
